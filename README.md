@@ -17,3 +17,5 @@ This project was carried out using some tools including:
 - ETL - Microsoft SQL Server Management Studio
 - Visualization - Microsoft Power BI
 - Flowchart - draw.io
+# Output
+Report: [report mini project DE.pptx](https://github.com/aseppurnama20/DSLS-Data-Engineer-Case-Study/files/10529942/report.mini.project.DE.pptx)
